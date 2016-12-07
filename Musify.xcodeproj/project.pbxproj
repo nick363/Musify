@@ -1,0 +1,532 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B71C5DDC1DF8ADE100E41C6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71C5DDB1DF8ADE100E41C6D /* AppDelegate.swift */; };
+		B71C5DDE1DF8ADE100E41C6D /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71C5DDD1DF8ADE100E41C6D /* FirstViewController.swift */; };
+		B71C5DE01DF8ADE100E41C6D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71C5DDF1DF8ADE100E41C6D /* SecondViewController.swift */; };
+		B71C5DE31DF8ADE100E41C6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B71C5DE11DF8ADE100E41C6D /* Main.storyboard */; };
+		B71C5DE51DF8ADE100E41C6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B71C5DE41DF8ADE100E41C6D /* Assets.xcassets */; };
+		B71C5DE81DF8ADE100E41C6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B71C5DE61DF8ADE100E41C6D /* LaunchScreen.storyboard */; };
+		B71C5DF31DF8ADE200E41C6D /* MusifyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71C5DF21DF8ADE200E41C6D /* MusifyTests.swift */; };
+		B71C5DFE1DF8ADE200E41C6D /* MusifyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71C5DFD1DF8ADE200E41C6D /* MusifyUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B71C5DEF1DF8ADE200E41C6D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B71C5DD01DF8ADE100E41C6D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B71C5DD71DF8ADE100E41C6D;
+			remoteInfo = Musify;
+		};
+		B71C5DFA1DF8ADE200E41C6D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B71C5DD01DF8ADE100E41C6D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B71C5DD71DF8ADE100E41C6D;
+			remoteInfo = Musify;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B71C5DD81DF8ADE100E41C6D /* Musify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Musify.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B71C5DDB1DF8ADE100E41C6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B71C5DDD1DF8ADE100E41C6D /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		B71C5DDF1DF8ADE100E41C6D /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B71C5DE21DF8ADE100E41C6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B71C5DE41DF8ADE100E41C6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B71C5DE71DF8ADE100E41C6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B71C5DE91DF8ADE100E41C6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B71C5DEE1DF8ADE200E41C6D /* MusifyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusifyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B71C5DF21DF8ADE200E41C6D /* MusifyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusifyTests.swift; sourceTree = "<group>"; };
+		B71C5DF41DF8ADE200E41C6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B71C5DF91DF8ADE200E41C6D /* MusifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B71C5DFD1DF8ADE200E41C6D /* MusifyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusifyUITests.swift; sourceTree = "<group>"; };
+		B71C5DFF1DF8ADE200E41C6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B71C5DD51DF8ADE100E41C6D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B71C5DEB1DF8ADE200E41C6D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B71C5DF61DF8ADE200E41C6D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B71C5DCF1DF8ADE100E41C6D = {
+			isa = PBXGroup;
+			children = (
+				B71C5DDA1DF8ADE100E41C6D /* Musify */,
+				B71C5DF11DF8ADE200E41C6D /* MusifyTests */,
+				B71C5DFC1DF8ADE200E41C6D /* MusifyUITests */,
+				B71C5DD91DF8ADE100E41C6D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B71C5DD91DF8ADE100E41C6D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B71C5DD81DF8ADE100E41C6D /* Musify.app */,
+				B71C5DEE1DF8ADE200E41C6D /* MusifyTests.xctest */,
+				B71C5DF91DF8ADE200E41C6D /* MusifyUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B71C5DDA1DF8ADE100E41C6D /* Musify */ = {
+			isa = PBXGroup;
+			children = (
+				B71C5DDB1DF8ADE100E41C6D /* AppDelegate.swift */,
+				B71C5DDD1DF8ADE100E41C6D /* FirstViewController.swift */,
+				B71C5DDF1DF8ADE100E41C6D /* SecondViewController.swift */,
+				B71C5DE11DF8ADE100E41C6D /* Main.storyboard */,
+				B71C5DE41DF8ADE100E41C6D /* Assets.xcassets */,
+				B71C5DE61DF8ADE100E41C6D /* LaunchScreen.storyboard */,
+				B71C5DE91DF8ADE100E41C6D /* Info.plist */,
+			);
+			path = Musify;
+			sourceTree = "<group>";
+		};
+		B71C5DF11DF8ADE200E41C6D /* MusifyTests */ = {
+			isa = PBXGroup;
+			children = (
+				B71C5DF21DF8ADE200E41C6D /* MusifyTests.swift */,
+				B71C5DF41DF8ADE200E41C6D /* Info.plist */,
+			);
+			path = MusifyTests;
+			sourceTree = "<group>";
+		};
+		B71C5DFC1DF8ADE200E41C6D /* MusifyUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B71C5DFD1DF8ADE200E41C6D /* MusifyUITests.swift */,
+				B71C5DFF1DF8ADE200E41C6D /* Info.plist */,
+			);
+			path = MusifyUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B71C5DD71DF8ADE100E41C6D /* Musify */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B71C5E021DF8ADE200E41C6D /* Build configuration list for PBXNativeTarget "Musify" */;
+			buildPhases = (
+				B71C5DD41DF8ADE100E41C6D /* Sources */,
+				B71C5DD51DF8ADE100E41C6D /* Frameworks */,
+				B71C5DD61DF8ADE100E41C6D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Musify;
+			productName = Musify;
+			productReference = B71C5DD81DF8ADE100E41C6D /* Musify.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B71C5DED1DF8ADE200E41C6D /* MusifyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B71C5E051DF8ADE200E41C6D /* Build configuration list for PBXNativeTarget "MusifyTests" */;
+			buildPhases = (
+				B71C5DEA1DF8ADE200E41C6D /* Sources */,
+				B71C5DEB1DF8ADE200E41C6D /* Frameworks */,
+				B71C5DEC1DF8ADE200E41C6D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B71C5DF01DF8ADE200E41C6D /* PBXTargetDependency */,
+			);
+			name = MusifyTests;
+			productName = MusifyTests;
+			productReference = B71C5DEE1DF8ADE200E41C6D /* MusifyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B71C5DF81DF8ADE200E41C6D /* MusifyUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B71C5E081DF8ADE200E41C6D /* Build configuration list for PBXNativeTarget "MusifyUITests" */;
+			buildPhases = (
+				B71C5DF51DF8ADE200E41C6D /* Sources */,
+				B71C5DF61DF8ADE200E41C6D /* Frameworks */,
+				B71C5DF71DF8ADE200E41C6D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B71C5DFB1DF8ADE200E41C6D /* PBXTargetDependency */,
+			);
+			name = MusifyUITests;
+			productName = MusifyUITests;
+			productReference = B71C5DF91DF8ADE200E41C6D /* MusifyUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B71C5DD01DF8ADE100E41C6D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0810;
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = "Nicholas Hu";
+				TargetAttributes = {
+					B71C5DD71DF8ADE100E41C6D = {
+						CreatedOnToolsVersion = 8.1;
+						ProvisioningStyle = Automatic;
+					};
+					B71C5DED1DF8ADE200E41C6D = {
+						CreatedOnToolsVersion = 8.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = B71C5DD71DF8ADE100E41C6D;
+					};
+					B71C5DF81DF8ADE200E41C6D = {
+						CreatedOnToolsVersion = 8.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = B71C5DD71DF8ADE100E41C6D;
+					};
+				};
+			};
+			buildConfigurationList = B71C5DD31DF8ADE100E41C6D /* Build configuration list for PBXProject "Musify" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B71C5DCF1DF8ADE100E41C6D;
+			productRefGroup = B71C5DD91DF8ADE100E41C6D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B71C5DD71DF8ADE100E41C6D /* Musify */,
+				B71C5DED1DF8ADE200E41C6D /* MusifyTests */,
+				B71C5DF81DF8ADE200E41C6D /* MusifyUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B71C5DD61DF8ADE100E41C6D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B71C5DE81DF8ADE100E41C6D /* LaunchScreen.storyboard in Resources */,
+				B71C5DE51DF8ADE100E41C6D /* Assets.xcassets in Resources */,
+				B71C5DE31DF8ADE100E41C6D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B71C5DEC1DF8ADE200E41C6D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B71C5DF71DF8ADE200E41C6D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B71C5DD41DF8ADE100E41C6D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B71C5DE01DF8ADE100E41C6D /* SecondViewController.swift in Sources */,
+				B71C5DDC1DF8ADE100E41C6D /* AppDelegate.swift in Sources */,
+				B71C5DDE1DF8ADE100E41C6D /* FirstViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B71C5DEA1DF8ADE200E41C6D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B71C5DF31DF8ADE200E41C6D /* MusifyTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B71C5DF51DF8ADE200E41C6D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B71C5DFE1DF8ADE200E41C6D /* MusifyUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B71C5DF01DF8ADE200E41C6D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B71C5DD71DF8ADE100E41C6D /* Musify */;
+			targetProxy = B71C5DEF1DF8ADE200E41C6D /* PBXContainerItemProxy */;
+		};
+		B71C5DFB1DF8ADE200E41C6D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B71C5DD71DF8ADE100E41C6D /* Musify */;
+			targetProxy = B71C5DFA1DF8ADE200E41C6D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B71C5DE11DF8ADE100E41C6D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B71C5DE21DF8ADE100E41C6D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B71C5DE61DF8ADE100E41C6D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B71C5DE71DF8ADE100E41C6D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B71C5E001DF8ADE200E41C6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B71C5E011DF8ADE200E41C6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B71C5E031DF8ADE200E41C6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Musify/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nicholashu.Musify;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		B71C5E041DF8ADE200E41C6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Musify/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nicholashu.Musify;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		B71C5E061DF8ADE200E41C6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MusifyTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nicholashu.MusifyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Musify.app/Musify";
+			};
+			name = Debug;
+		};
+		B71C5E071DF8ADE200E41C6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MusifyTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nicholashu.MusifyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Musify.app/Musify";
+			};
+			name = Release;
+		};
+		B71C5E091DF8ADE200E41C6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = MusifyUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nicholashu.MusifyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = Musify;
+			};
+			name = Debug;
+		};
+		B71C5E0A1DF8ADE200E41C6D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = MusifyUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nicholashu.MusifyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = Musify;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B71C5DD31DF8ADE100E41C6D /* Build configuration list for PBXProject "Musify" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B71C5E001DF8ADE200E41C6D /* Debug */,
+				B71C5E011DF8ADE200E41C6D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B71C5E021DF8ADE200E41C6D /* Build configuration list for PBXNativeTarget "Musify" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B71C5E031DF8ADE200E41C6D /* Debug */,
+				B71C5E041DF8ADE200E41C6D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B71C5E051DF8ADE200E41C6D /* Build configuration list for PBXNativeTarget "MusifyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B71C5E061DF8ADE200E41C6D /* Debug */,
+				B71C5E071DF8ADE200E41C6D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B71C5E081DF8ADE200E41C6D /* Build configuration list for PBXNativeTarget "MusifyUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B71C5E091DF8ADE200E41C6D /* Debug */,
+				B71C5E0A1DF8ADE200E41C6D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B71C5DD01DF8ADE100E41C6D /* Project object */;
+}
