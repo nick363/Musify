@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alternative</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>1 stars</string>
+			<string>Welcome To Your Life</string>
+			<string>ng8cDzyktEY</string>
+			<string>GroupLove</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>2 stars</string>
+			<string>Take It All Back</string>
+			<string>9m4OcDnLlko</string>
+			<string>Judah &amp; The Lion</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>3 stars</string>
+			<string>All We Ever Knew</string>
+			<string>W50zP8K04-E</string>
+			<string>The Head And The Heart</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>Heathens</string>
+			<string>4Am6iIqPXHY</string>
+			<string>Twenty One Pilots</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Waste A Moment</string>
+			<string>AmAaWCFlxEE</string>
+			<string>Kings Of Leon</string>
+		</array>
+	</dict>
+	<key>Blues</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>I&apos;m Your Hoochie Coochie Man</string>
+			<string>fQ4NFsw4bOU</string>
+			<string>Muddy Waters</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>At Last</string>
+			<string>bwzDxp2TC7I</string>
+			<string>Etta James</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>Blues Before Sunrise</string>
+			<string>CY85PSxn0PI</string>
+			<string>Eric Clapton</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>Stormy Monday</string>
+			<string>VAPDJheC0Jk</string>
+			<string>T-Bone Walker</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Paying The Cost To Be The Boss</string>
+			<string>KGs6c3mNZxk</string>
+			<string>B.B. King</string>
+		</array>
+	</dict>
+	<key>Classical</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>Ride Of The Valkyries</string>
+			<string>XRU1AJsXN1g</string>
+			<string>Richard Wagner</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>Peer Gynt - Suite No. 1, Op. 46 - I. Morning Mood</string>
+			<string>kzTQ9fjforY</string>
+			<string>Edvard Grieg</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>Symphony No. 5 In C Minor, Op. 67, - Fate</string>
+			<string>tV6CpVfU7ig</string>
+			<string>Ludwig van Beethoven</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>The Four Seasons, Op. 8 - Spring</string>
+			<string>taFFiEDlth8</string>
+			<string>Antonio Lucio Vivaldi</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Adagio For Strings</string>
+			<string>izQsgE0L450</string>
+			<string>Samuel Barber</string>
+		</array>
+	</dict>
+	<key>Electronic</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>Closer</string>
+			<string>PT2_F-1esPk</string>
+			<string>The Chainsmokers Featuring Halsey</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>Hard Times</string>
+			<string>MfEYYYQKuSU</string>
+			<string>GRiZ</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>Strobe</string>
+			<string>tKi9Z-f6qX4</string>
+			<string>Deadmau5</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>Harder Better Faster</string>
+			<string>gAjR4_CbPpQ</string>
+			<string>Daft Punk</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Spectrum</string>
+			<string>IsuVMdnF8A0</string>
+			<string>Zedd Featuring Matthew Koma</string>
+		</array>
+		<key>6</key>
+		<array>
+			<string>0 stars</string>
+			<string>Dubuasca</string>
+			<string>IfToHB0QBqQ</string>
+			<string>Bassnectar &amp; Kang</string>
+		</array>
+	</dict>
+	<key>Hip Hop / Rap</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>In Da Club</string>
+			<string>5qm8PH4xAss</string>
+			<string>50 Cent</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>Jesus Walks</string>
+			<string>fb4VyF7WubE</string>
+			<string>Kanye West</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>The Message</string>
+			<string>PobrSpMwKk4</string>
+			<string>Grandmaster Flash &amp; The Furious Five</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>Rapper&apos;s Delight</string>
+			<string>rKTUAESacQM</string>
+			<string>The Sugar Hill Gang</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Juicy</string>
+			<string>_JZom_gVfuw</string>
+			<string>The Notorious B.I.G.</string>
+		</array>
+		<key>6</key>
+		<array>
+			<string>0 stars</string>
+			<string>Lose Yourself</string>
+			<string>_Yhyp-_hX2s</string>
+			<string>Eminem</string>
+		</array>
+	</dict>
+	<key>Jazz</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>Acknowledgement</string>
+			<string>qagOblqhBhk</string>
+			<string>John Coltrane</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>Echoes Rising</string>
+			<string>4mx6DLBjN1Y</string>
+			<string>Paul Hardcastle</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>So What</string>
+			<string>zqNTltOGh5c</string>
+			<string>Miles Davis</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>Strange Fruit</string>
+			<string>Web007rzSOI</string>
+			<string>Billie Holiday</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Take Five</string>
+			<string>vmDDOFXSgAs</string>
+			<string>Dave Brubeck</string>
+		</array>
+	</dict>
+	<key>Rock</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>Back In Black</string>
+			<string>pAgnJDJN4VA</string>
+			<string>AC/DC</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>A Day In The Life</string>
+			<string>usNsCeOV4GM</string>
+			<string>The Beatles</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>Sweet Emotion</string>
+			<string>82cJgPXU-ik</string>
+			<string>Aerosmith</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>Kashmir</string>
+			<string>PD-MdiUm1_Y</string>
+			<string>Led Zeppelin</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Gimme Shelter</string>
+			<string>RbmS3tQJ7Os</string>
+			<string>The Rolling Stones</string>
+		</array>
+		<key>6</key>
+		<array>
+			<string>0 stars</string>
+			<string>Californication</string>
+			<string>YlUKcNNmywk</string>
+			<string>Red Hot Chili Peppers</string>
+		</array>
+	</dict>
+	<key>Reggae</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>Red Red Wine</string>
+			<string>JSlodTiumsE</string>
+			<string>Red Red Wine (12&apos;&apos; Version)
+UB40</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>It Wasn&apos;t Me</string>
+			<string>g0-vDUseFA8</string>
+			<string>Shaggy</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>One Day</string>
+			<string>WRmBChQjZPs</string>
+			<string>Matisyahu</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>Three Little Birds</string>
+			<string>n4SO7z010JE</string>
+			<string>Bob Marley &amp; The Wailers</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Santeria</string>
+			<string>AEYN5w4T_aM</string>
+			<string>Sublime</string>
+		</array>
+	</dict>
+	<key>Country</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>Cruise</string>
+			<string>8PvebsWcpto</string>
+			<string>Florida Georgia Line</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>Walk On By</string>
+			<string>8QlqQA8CyjE</string>
+			<string>Leroy Van Dyke</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>Somebody Like You</string>
+			<string>eiBinM-f-Pk</string>
+			<string>Keith Urban</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>Ring Of Fire</string>
+			<string>mIBTg7q9oNc</string>
+			<string>Johnny Cash</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>Just To See You Smile</string>
+			<string>M9jKwji7imU</string>
+			<string>Tim McGraw</string>
+		</array>
+	</dict>
+	<key>R&amp;B / Soul</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<string>0 stars</string>
+			<string>Let&apos;s Stay Together</string>
+			<string>ZqsjPK54niM</string>
+			<string>Al Green</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>0 stars</string>
+			<string>My Girl</string>
+			<string>rQm2-gqm9nU</string>
+			<string>The Temptations</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>0 stars</string>
+			<string>Respect</string>
+			<string>fzPXozDgvYs</string>
+			<string>Aretha Franklin</string>
+		</array>
+		<key>4</key>
+		<array>
+			<string>0 stars</string>
+			<string>You Make Me Feel Brand New</string>
+			<string>bopywoDR0v4</string>
+			<string>The Stylistics</string>
+		</array>
+		<key>5</key>
+		<array>
+			<string>0 stars</string>
+			<string>What&apos;s Going On</string>
+			<string>J5Z-kjrSomw</string>
+			<string>Marvin Gaye</string>
+		</array>
+	</dict>
+</dict>
+</plist>
