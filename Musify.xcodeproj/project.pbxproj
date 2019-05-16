@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		20217A27EEFC0B0094868CE8 /* Pods_Musify.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C20FE0F508C6D8D82CDDFD4 /* Pods_Musify.framework */; };
-		4A2A00C8C869919173050FBB /* Pods_MusifyTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23C2DD56E6F4C93E4701C258 /* Pods_MusifyTests.framework */; };
 		B71C5DDC1DF8ADE100E41C6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71C5DDB1DF8ADE100E41C6D /* AppDelegate.swift */; };
 		B71C5DE31DF8ADE100E41C6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B71C5DE11DF8ADE100E41C6D /* Main.storyboard */; };
 		B71C5DE51DF8ADE100E41C6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B71C5DE41DF8ADE100E41C6D /* Assets.xcassets */; };
@@ -23,7 +22,6 @@
 		B72B509C1DF94EA900EAB5A2 /* AudioVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72B509B1DF94EA900EAB5A2 /* AudioVC.swift */; };
 		B72B509F1DF9625000EAB5A2 /* MyFavoritesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72B509E1DF9625000EAB5A2 /* MyFavoritesTableViewController.swift */; };
 		B72B50A21DF97C3600EAB5A2 /* NewMusicTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72B50A11DF97C3600EAB5A2 /* NewMusicTableViewController.swift */; };
-		EBD0327E07F0C1F038B555DE /* Pods_MusifyUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C743E3CC6FE80D3DDD4950A1 /* Pods_MusifyUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,10 +43,7 @@
 
 /* Begin PBXFileReference section */
 		1C852FC3F225C5B3D05F513B /* Pods-Musify.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Musify.release.xcconfig"; path = "Pods/Target Support Files/Pods-Musify/Pods-Musify.release.xcconfig"; sourceTree = "<group>"; };
-		1EE11169A6FA2212ADB3E90D /* Pods-MusifyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusifyUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MusifyUITests/Pods-MusifyUITests.release.xcconfig"; sourceTree = "<group>"; };
 		23C2DD56E6F4C93E4701C258 /* Pods_MusifyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MusifyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2500627F8EAD1807968A8848 /* Pods-MusifyTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusifyTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MusifyTests/Pods-MusifyTests.release.xcconfig"; sourceTree = "<group>"; };
-		3656A9E9544A8D159520BD85 /* Pods-MusifyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusifyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MusifyTests/Pods-MusifyTests.debug.xcconfig"; sourceTree = "<group>"; };
 		78C497CC7B6D104AA0644BD9 /* Pods-Musify.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Musify.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Musify/Pods-Musify.debug.xcconfig"; sourceTree = "<group>"; };
 		9C20FE0F508C6D8D82CDDFD4 /* Pods_Musify.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Musify.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B71C5DD81DF8ADE100E41C6D /* Musify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Musify.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -71,7 +66,6 @@
 		B72B509B1DF94EA900EAB5A2 /* AudioVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioVC.swift; sourceTree = "<group>"; };
 		B72B509E1DF9625000EAB5A2 /* MyFavoritesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyFavoritesTableViewController.swift; sourceTree = "<group>"; };
 		B72B50A11DF97C3600EAB5A2 /* NewMusicTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewMusicTableViewController.swift; sourceTree = "<group>"; };
-		BD3598DA9DC12A1F79BA6BB4 /* Pods-MusifyUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusifyUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MusifyUITests/Pods-MusifyUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		C743E3CC6FE80D3DDD4950A1 /* Pods_MusifyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MusifyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -88,7 +82,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A2A00C8C869919173050FBB /* Pods_MusifyTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -96,7 +89,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EBD0327E07F0C1F038B555DE /* Pods_MusifyUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -108,10 +100,6 @@
 			children = (
 				78C497CC7B6D104AA0644BD9 /* Pods-Musify.debug.xcconfig */,
 				1C852FC3F225C5B3D05F513B /* Pods-Musify.release.xcconfig */,
-				3656A9E9544A8D159520BD85 /* Pods-MusifyTests.debug.xcconfig */,
-				2500627F8EAD1807968A8848 /* Pods-MusifyTests.release.xcconfig */,
-				BD3598DA9DC12A1F79BA6BB4 /* Pods-MusifyUITests.debug.xcconfig */,
-				1EE11169A6FA2212ADB3E90D /* Pods-MusifyUITests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -253,12 +241,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B71C5E051DF8ADE200E41C6D /* Build configuration list for PBXNativeTarget "MusifyTests" */;
 			buildPhases = (
-				BA617954E5BC3EAE33A8333A /* [CP] Check Pods Manifest.lock */,
 				B71C5DEA1DF8ADE200E41C6D /* Sources */,
 				B71C5DEB1DF8ADE200E41C6D /* Frameworks */,
 				B71C5DEC1DF8ADE200E41C6D /* Resources */,
-				690E8EF73EBBB1FFEFA239EE /* [CP] Embed Pods Frameworks */,
-				C66779756164A54D0D3E390B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -274,12 +259,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B71C5E081DF8ADE200E41C6D /* Build configuration list for PBXNativeTarget "MusifyUITests" */;
 			buildPhases = (
-				C17517F7F1BAFA83BBD7CC05 /* [CP] Check Pods Manifest.lock */,
 				B71C5DF51DF8ADE200E41C6D /* Sources */,
 				B71C5DF61DF8ADE200E41C6D /* Frameworks */,
 				B71C5DF71DF8ADE200E41C6D /* Resources */,
-				25534E27D35E787BB4582FE7 /* [CP] Embed Pods Frameworks */,
-				CFB32B4015A11D0B33F32407 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -303,7 +285,7 @@
 				TargetAttributes = {
 					B71C5DD71DF8ADE100E41C6D = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = U3465V32BF;
+						DevelopmentTeam = 7KAHH2XK73;
 						ProvisioningStyle = Automatic;
 					};
 					B71C5DED1DF8ADE200E41C6D = {
@@ -373,43 +355,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Musify-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		25534E27D35E787BB4582FE7 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MusifyUITests/Pods-MusifyUITests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		690E8EF73EBBB1FFEFA239EE /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MusifyTests/Pods-MusifyTests-frameworks.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		8A917657FD660E6A91CE6176 /* [CP] Copy Pods Resources */ = {
@@ -427,75 +382,18 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Musify/Pods-Musify-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		BA617954E5BC3EAE33A8333A /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		C17517F7F1BAFA83BBD7CC05 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		C66779756164A54D0D3E390B /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MusifyTests/Pods-MusifyTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		CFB32B4015A11D0B33F32407 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MusifyUITests/Pods-MusifyUITests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		EA2EC75C012278DF1FF07892 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Musify/Pods-Musify-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -669,7 +567,7 @@
 			baseConfigurationReference = 78C497CC7B6D104AA0644BD9 /* Pods-Musify.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = U3465V32BF;
+				DEVELOPMENT_TEAM = 7KAHH2XK73;
 				INFOPLIST_FILE = Musify/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -685,7 +583,7 @@
 			baseConfigurationReference = 1C852FC3F225C5B3D05F513B /* Pods-Musify.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = U3465V32BF;
+				DEVELOPMENT_TEAM = 7KAHH2XK73;
 				INFOPLIST_FILE = Musify/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -698,7 +596,6 @@
 		};
 		B71C5E061DF8ADE200E41C6D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3656A9E9544A8D159520BD85 /* Pods-MusifyTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -713,7 +610,6 @@
 		};
 		B71C5E071DF8ADE200E41C6D /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2500627F8EAD1807968A8848 /* Pods-MusifyTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -728,7 +624,6 @@
 		};
 		B71C5E091DF8ADE200E41C6D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BD3598DA9DC12A1F79BA6BB4 /* Pods-MusifyUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = MusifyUITests/Info.plist;
@@ -742,7 +637,6 @@
 		};
 		B71C5E0A1DF8ADE200E41C6D /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1EE11169A6FA2212ADB3E90D /* Pods-MusifyUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = MusifyUITests/Info.plist;
