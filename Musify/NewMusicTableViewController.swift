@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Alamofire
 
 class NewMusicTableViewController: UITableViewController {
 
@@ -23,7 +24,7 @@ class NewMusicTableViewController: UITableViewController {
         let keywords = searchBar.text
         let finalKeywords = keywords?.replacingOccurrences(of: " ", with: "+")
         
-        searchURL = "https://api.spotify.com/v1/search?q=\(finalKeywords!)&type=track"
+        let searchURL = "https://api.spotify.com/v1/search?q=\(finalKeywords!)&type=track"
         callAlamo(url: searchURL)
         self.view.endEditing(true)
     }
